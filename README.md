@@ -1,3 +1,13 @@
+# Pandamic Predatars
+
+## Goals
+
+- [x] Make the shift friom MATLAB to Python for the Audio analysis.
+- [ ] Extract various features from the given virufy datset and other similar datsets(if we find any)
+- [ ] Read up on Conventional Neural Networks
+- [ ] Apply it for our new live-dataset.  
+
+
 # COVID-19 Smartphone Detection
 
 <p align="center">
@@ -14,3 +24,5 @@ Our data can be found in the [data/ folder](./data).
 
 ## Our Website
 https://virufy.org/
+
+
